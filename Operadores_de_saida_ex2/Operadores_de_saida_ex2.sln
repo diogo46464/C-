@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores_de_saida_ex2", "Operadores_de_saida_ex2\Operadores_de_saida_ex2.csproj", "{7E911F3A-5BA1-4B8D-9C02-D72492D30566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E911F3A-5BA1-4B8D-9C02-D72492D30566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E911F3A-5BA1-4B8D-9C02-D72492D30566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E911F3A-5BA1-4B8D-9C02-D72492D30566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E911F3A-5BA1-4B8D-9C02-D72492D30566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFE0D703-FA6A-4AAF-85F7-5AA92140EF15}
+	EndGlobalSection
+EndGlobal

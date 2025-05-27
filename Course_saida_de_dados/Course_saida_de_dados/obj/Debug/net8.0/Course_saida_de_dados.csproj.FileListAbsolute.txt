@@ -1,0 +1,14 @@
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\bin\Debug\net8.0\Course_saida_de_dados.exe
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\bin\Debug\net8.0\Course_saida_de_dados.deps.json
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\bin\Debug\net8.0\Course_saida_de_dados.runtimeconfig.json
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\bin\Debug\net8.0\Course_saida_de_dados.dll
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\bin\Debug\net8.0\Course_saida_de_dados.pdb
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\obj\Debug\net8.0\Course_saida_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\obj\Debug\net8.0\Course_saida_de_dados.AssemblyInfoInputs.cache
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\obj\Debug\net8.0\Course_saida_de_dados.AssemblyInfo.cs
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\obj\Debug\net8.0\Course_saida_de_dados.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\obj\Debug\net8.0\Course_saida_de_dados.dll
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\obj\Debug\net8.0\refint\Course_saida_de_dados.dll
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\obj\Debug\net8.0\Course_saida_de_dados.pdb
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\obj\Debug\net8.0\Course_saida_de_dados.genruntimeconfig.cache
+C:\temp\projetos\Course_saida_de_dados\Course_saida_de_dados\obj\Debug\net8.0\ref\Course_saida_de_dados.dll

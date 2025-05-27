@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Entrada_de_dados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92A9553F-0CAC-4F59-835F-67E123B01E19}|Entrada_de_dados\\Entrada_de_dados.csproj|c:\\temp\\projetos\\entrada_de_dados\\entrada_de_dados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A9553F-0CAC-4F59-835F-67E123B01E19}|Entrada_de_dados\\Entrada_de_dados.csproj|solutionrelative:entrada_de_dados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Entrada_de_dados\\Entrada_de_dados\\Program.cs",
+              "RelativeDocumentMoniker": "Entrada_de_dados\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Entrada_de_dados\\Entrada_de_dados\\Program.cs",
+              "RelativeToolTip": "Entrada_de_dados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:22:09.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

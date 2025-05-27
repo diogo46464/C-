@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Course_saida_de_dados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1997EF4C-4A99-4E19-B20E-953EF3D20A87}|Course_saida_de_dados\\Course_saida_de_dados.csproj|c:\\temp\\projetos\\course_saida_de_dados\\course_saida_de_dados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1997EF4C-4A99-4E19-B20E-953EF3D20A87}|Course_saida_de_dados\\Course_saida_de_dados.csproj|solutionrelative:course_saida_de_dados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Course_saida_de_dados\\Course_saida_de_dados\\Program.cs",
+              "RelativeDocumentMoniker": "Course_saida_de_dados\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Course_saida_de_dados\\Course_saida_de_dados\\Program.cs",
+              "RelativeToolTip": "Course_saida_de_dados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:22:17.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

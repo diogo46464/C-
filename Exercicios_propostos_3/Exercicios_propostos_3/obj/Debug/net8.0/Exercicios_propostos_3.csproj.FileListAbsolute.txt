@@ -1,0 +1,14 @@
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\bin\Debug\net8.0\Exercicios_propostos_3.exe
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\bin\Debug\net8.0\Exercicios_propostos_3.deps.json
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\bin\Debug\net8.0\Exercicios_propostos_3.runtimeconfig.json
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\bin\Debug\net8.0\Exercicios_propostos_3.dll
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\bin\Debug\net8.0\Exercicios_propostos_3.pdb
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\obj\Debug\net8.0\Exercicios_propostos_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\obj\Debug\net8.0\Exercicios_propostos_3.AssemblyInfoInputs.cache
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\obj\Debug\net8.0\Exercicios_propostos_3.AssemblyInfo.cs
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\obj\Debug\net8.0\Exercicios_propostos_3.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\obj\Debug\net8.0\Exercicios_propostos_3.dll
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\obj\Debug\net8.0\refint\Exercicios_propostos_3.dll
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\obj\Debug\net8.0\Exercicios_propostos_3.pdb
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\obj\Debug\net8.0\Exercicios_propostos_3.genruntimeconfig.cache
+C:\temp\projetos\Exercicios_propostos_3\Exercicios_propostos_3\obj\Debug\net8.0\ref\Exercicios_propostos_3.dll

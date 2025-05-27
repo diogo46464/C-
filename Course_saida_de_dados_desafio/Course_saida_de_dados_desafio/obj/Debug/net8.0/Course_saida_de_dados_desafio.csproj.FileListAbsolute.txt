@@ -1,0 +1,14 @@
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\bin\Debug\net8.0\Course_saida_de_dados_desafio.exe
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\bin\Debug\net8.0\Course_saida_de_dados_desafio.deps.json
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\bin\Debug\net8.0\Course_saida_de_dados_desafio.runtimeconfig.json
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\bin\Debug\net8.0\Course_saida_de_dados_desafio.dll
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\bin\Debug\net8.0\Course_saida_de_dados_desafio.pdb
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\obj\Debug\net8.0\Course_saida_de_dados_desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\obj\Debug\net8.0\Course_saida_de_dados_desafio.AssemblyInfoInputs.cache
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\obj\Debug\net8.0\Course_saida_de_dados_desafio.AssemblyInfo.cs
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\obj\Debug\net8.0\Course_saida_de_dados_desafio.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\obj\Debug\net8.0\Course_saida_de_dados_desafio.dll
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\obj\Debug\net8.0\refint\Course_saida_de_dados_desafio.dll
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\obj\Debug\net8.0\Course_saida_de_dados_desafio.pdb
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\obj\Debug\net8.0\Course_saida_de_dados_desafio.genruntimeconfig.cache
+C:\temp\projetos\Course_saida_de_dados_desafio\Course_saida_de_dados_desafio\obj\Debug\net8.0\ref\Course_saida_de_dados_desafio.dll

@@ -1,0 +1,14 @@
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\bin\Debug\net8.0\Entrada_de_dados_2.exe
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\bin\Debug\net8.0\Entrada_de_dados_2.deps.json
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\bin\Debug\net8.0\Entrada_de_dados_2.runtimeconfig.json
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\bin\Debug\net8.0\Entrada_de_dados_2.dll
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\bin\Debug\net8.0\Entrada_de_dados_2.pdb
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\obj\Debug\net8.0\Entrada_de_dados_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\obj\Debug\net8.0\Entrada_de_dados_2.AssemblyInfoInputs.cache
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\obj\Debug\net8.0\Entrada_de_dados_2.AssemblyInfo.cs
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\obj\Debug\net8.0\Entrada_de_dados_2.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\obj\Debug\net8.0\Entrada_de_dados_2.dll
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\obj\Debug\net8.0\refint\Entrada_de_dados_2.dll
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\obj\Debug\net8.0\Entrada_de_dados_2.pdb
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\obj\Debug\net8.0\Entrada_de_dados_2.genruntimeconfig.cache
+C:\temp\projetos\Entrada_de_dados_2\Entrada_de_dados_2\obj\Debug\net8.0\ref\Entrada_de_dados_2.dll

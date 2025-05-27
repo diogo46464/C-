@@ -1,0 +1,14 @@
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\obj\Debug\net8.0\Exercicío_entrada_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\obj\Debug\net8.0\Exercicío_entrada_de_dados.AssemblyInfoInputs.cache
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\obj\Debug\net8.0\Exercicío_entrada_de_dados.AssemblyInfo.cs
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\obj\Debug\net8.0\Exercicío_entrada_de_dados.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\bin\Debug\net8.0\Exercicío_entrada_de_dados.exe
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\bin\Debug\net8.0\Exercicío_entrada_de_dados.deps.json
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\bin\Debug\net8.0\Exercicío_entrada_de_dados.runtimeconfig.json
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\bin\Debug\net8.0\Exercicío_entrada_de_dados.dll
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\bin\Debug\net8.0\Exercicío_entrada_de_dados.pdb
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\obj\Debug\net8.0\Exercicío_entrada_de_dados.dll
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\obj\Debug\net8.0\refint\Exercicío_entrada_de_dados.dll
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\obj\Debug\net8.0\Exercicío_entrada_de_dados.pdb
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\obj\Debug\net8.0\Exercicío_entrada_de_dados.genruntimeconfig.cache
+C:\temp\projetos\Exercicío_entrada_de_dados\Exercicío_entrada_de_dados\obj\Debug\net8.0\ref\Exercicío_entrada_de_dados.dll

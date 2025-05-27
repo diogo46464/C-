@@ -1,0 +1,14 @@
+C:\temp\projetos\if_else\if_else\bin\Debug\net8.0\if_else.exe
+C:\temp\projetos\if_else\if_else\bin\Debug\net8.0\if_else.deps.json
+C:\temp\projetos\if_else\if_else\bin\Debug\net8.0\if_else.runtimeconfig.json
+C:\temp\projetos\if_else\if_else\bin\Debug\net8.0\if_else.dll
+C:\temp\projetos\if_else\if_else\bin\Debug\net8.0\if_else.pdb
+C:\temp\projetos\if_else\if_else\obj\Debug\net8.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\if_else\if_else\obj\Debug\net8.0\if_else.AssemblyInfoInputs.cache
+C:\temp\projetos\if_else\if_else\obj\Debug\net8.0\if_else.AssemblyInfo.cs
+C:\temp\projetos\if_else\if_else\obj\Debug\net8.0\if_else.csproj.CoreCompileInputs.cache
+C:\temp\projetos\if_else\if_else\obj\Debug\net8.0\if_else.dll
+C:\temp\projetos\if_else\if_else\obj\Debug\net8.0\refint\if_else.dll
+C:\temp\projetos\if_else\if_else\obj\Debug\net8.0\if_else.pdb
+C:\temp\projetos\if_else\if_else\obj\Debug\net8.0\if_else.genruntimeconfig.cache
+C:\temp\projetos\if_else\if_else\obj\Debug\net8.0\ref\if_else.dll
