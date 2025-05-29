@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\temp\\projetos\\Exercicio_propostos_5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|c:\\temp\\projetos\\exercicio_propostos_5\\exercicio_propostos_5\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|solutionrelative:exercicio_propostos_5\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|c:\\temp\\projetos\\exercicio_propostos_5\\exercicio_propostos_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|solutionrelative:exercicio_propostos_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|c:\\temp\\projetos\\exercicio_propostos_5\\exercicio_propostos_5\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|solutionrelative:exercicio_propostos_5\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|c:\\temp\\projetos\\exercicio_propostos_5\\exercicio_propostos_5\\helperlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|solutionrelative:exercicio_propostos_5\\helperlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|c:\\temp\\projetos\\exercicio_propostos_5\\exercicio_propostos_5\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|solutionrelative:exercicio_propostos_5\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|c:\\temp\\projetos\\exercicio_propostos_5\\exercicio_propostos_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|solutionrelative:exercicio_propostos_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|c:\\temp\\projetos\\exercicio_propostos_5\\exercicio_propostos_5\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D3AD1-66AF-44FA-BBEA-44BFE8AD4C6C}|Exercicio_propostos_5\\Exercicio_propostos_5.csproj|solutionrelative:exercicio_propostos_5\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Exercicios.cs",
               "DocumentMoniker": "C:\\temp\\projetos\\Exercicio_propostos_5\\Exercicio_propostos_5\\Exercicios.cs",
               "RelativeDocumentMoniker": "Exercicio_propostos_5\\Exercicios.cs",
@@ -39,37 +39,37 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T01:15:13.43Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HelperLayout.cs",
               "DocumentMoniker": "C:\\temp\\projetos\\Exercicio_propostos_5\\Exercicio_propostos_5\\HelperLayout.cs",
               "RelativeDocumentMoniker": "Exercicio_propostos_5\\HelperLayout.cs",
               "ToolTip": "C:\\temp\\projetos\\Exercicio_propostos_5\\Exercicio_propostos_5\\HelperLayout.cs",
               "RelativeToolTip": "Exercicio_propostos_5\\HelperLayout.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T01:40:44.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GLobalUsings.cs",
               "DocumentMoniker": "C:\\temp\\projetos\\Exercicio_propostos_5\\Exercicio_propostos_5\\GLobalUsings.cs",
               "RelativeDocumentMoniker": "Exercicio_propostos_5\\GLobalUsings.cs",
               "ToolTip": "C:\\temp\\projetos\\Exercicio_propostos_5\\Exercicio_propostos_5\\GLobalUsings.cs",
               "RelativeToolTip": "Exercicio_propostos_5\\GLobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T01:27:13.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T01:27:13.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\projetos\\Exercicio_propostos_5\\Exercicio_propostos_5\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio_propostos_5\\Program.cs",

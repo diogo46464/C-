@@ -1,0 +1,15 @@
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\bin\Debug\net8.0\Exercicio_if_else.exe
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\bin\Debug\net8.0\Exercicio_if_else.deps.json
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\bin\Debug\net8.0\Exercicio_if_else.runtimeconfig.json
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\bin\Debug\net8.0\Exercicio_if_else.dll
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\bin\Debug\net8.0\Exercicio_if_else.pdb
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\obj\Debug\net8.0\Exercicio_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\obj\Debug\net8.0\Exercicio_if_else.AssemblyInfoInputs.cache
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\obj\Debug\net8.0\Exercicio_if_else.AssemblyInfo.cs
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\obj\Debug\net8.0\Exercicio_if_else.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\obj\Debug\net8.0\Exercicio_if_else.sourcelink.json
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\obj\Debug\net8.0\Exercicio_if_else.dll
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\obj\Debug\net8.0\refint\Exercicio_if_else.dll
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\obj\Debug\net8.0\Exercicio_if_else.pdb
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\obj\Debug\net8.0\Exercicio_if_else.genruntimeconfig.cache
+C:\temp\projetos\Exercicio_if_else\Exercicio_if_else\obj\Debug\net8.0\ref\Exercicio_if_else.dll

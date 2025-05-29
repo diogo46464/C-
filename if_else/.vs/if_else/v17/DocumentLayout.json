@@ -31,8 +31,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T01:42:43.668Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -42,7 +41,7 @@
               "RelativeDocumentMoniker": "if_else\\exercicio.cs",
               "ToolTip": "C:\\temp\\projetos\\if_else\\if_else\\exercicio.cs",
               "RelativeToolTip": "if_else\\exercicio.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T01:53:57.913Z",
               "EditorCaption": ""
