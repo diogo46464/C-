@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Exercise_While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C58D3576-22F3-485B-A42D-DBECA744ACCB}|Exercise_While\\Exercise_While.csproj|c:\\temp\\projetos\\exercise_while\\exercise_while\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58D3576-22F3-485B-A42D-DBECA744ACCB}|Exercise_While\\Exercise_While.csproj|solutionrelative:exercise_while\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58D3576-22F3-485B-A42D-DBECA744ACCB}|Exercise_While\\Exercise_While.csproj|c:\\temp\\projetos\\exercise_while\\exercise_while\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58D3576-22F3-485B-A42D-DBECA744ACCB}|Exercise_While\\Exercise_While.csproj|solutionrelative:exercise_while\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58D3576-22F3-485B-A42D-DBECA744ACCB}|Exercise_While\\Exercise_While.csproj|c:\\temp\\projetos\\exercise_while\\exercise_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58D3576-22F3-485B-A42D-DBECA744ACCB}|Exercise_While\\Exercise_While.csproj|solutionrelative:exercise_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58D3576-22F3-485B-A42D-DBECA744ACCB}|Exercise_While\\Exercise_While.csproj|c:\\temp\\projetos\\exercise_while\\exercise_while\\funcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58D3576-22F3-485B-A42D-DBECA744ACCB}|Exercise_While\\Exercise_While.csproj|solutionrelative:exercise_while\\funcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58D3576-22F3-485B-A42D-DBECA744ACCB}|Exercise_While\\Exercise_While.csproj|c:\\temp\\projetos\\exercise_while\\exercise_while\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C58D3576-22F3-485B-A42D-DBECA744ACCB}|Exercise_While\\Exercise_While.csproj|solutionrelative:exercise_while\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Funcao.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercise_While\\Exercise_While\\Funcao.cs",
+              "RelativeDocumentMoniker": "Exercise_While\\Funcao.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercise_While\\Exercise_While\\Funcao.cs",
+              "RelativeToolTip": "Exercise_While\\Funcao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:43:59.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercise_While\\Exercise_While\\Extension.cs",
+              "RelativeDocumentMoniker": "Exercise_While\\Extension.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercise_While\\Exercise_While\\Extension.cs",
+              "RelativeToolTip": "Exercise_While\\Extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:36:20.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Template.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercise_While\\Exercise_While\\Template.cs",
+              "RelativeDocumentMoniker": "Exercise_While\\Template.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercise_While\\Exercise_While\\Template.cs",
+              "RelativeToolTip": "Exercise_While\\Template.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:35:20.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercise_While\\Exercise_While\\Exercise.cs",
+              "RelativeDocumentMoniker": "Exercise_While\\Exercise.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercise_While\\Exercise_While\\Exercise.cs",
+              "RelativeToolTip": "Exercise_While\\Exercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:33:00.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercise_While\\Exercise_While\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise_While\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercise_While\\Exercise_While\\Program.cs",
+              "RelativeToolTip": "Exercise_While\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:32:26.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
