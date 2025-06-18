@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Exercicio_com_classe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB730E4-1EA6-4375-8B47-27398CF5357D}|Exercicio_com_classe\\Exercicio_com_classe.csproj|c:\\temp\\projetos\\exercicio_com_classe\\exercicio_com_classe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFB730E4-1EA6-4375-8B47-27398CF5357D}|Exercicio_com_classe\\Exercicio_com_classe.csproj|solutionrelative:exercicio_com_classe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB730E4-1EA6-4375-8B47-27398CF5357D}|Exercicio_com_classe\\Exercicio_com_classe.csproj|c:\\temp\\projetos\\exercicio_com_classe\\exercicio_com_classe\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFB730E4-1EA6-4375-8B47-27398CF5357D}|Exercicio_com_classe\\Exercicio_com_classe.csproj|solutionrelative:exercicio_com_classe\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercicio_com_classe\\Exercicio_com_classe\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Exercicio_com_classe\\Triangulo.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercicio_com_classe\\Exercicio_com_classe\\Triangulo.cs",
+              "RelativeToolTip": "Exercicio_com_classe\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:04:30.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercicio_com_classe\\Exercicio_com_classe\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_com_classe\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercicio_com_classe\\Exercicio_com_classe\\Program.cs",
+              "RelativeToolTip": "Exercicio_com_classe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:03:07.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

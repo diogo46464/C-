@@ -1,0 +1,15 @@
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\bin\Debug\net8.0\Exercicio_com_classe2.exe
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\bin\Debug\net8.0\Exercicio_com_classe2.deps.json
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\bin\Debug\net8.0\Exercicio_com_classe2.runtimeconfig.json
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\bin\Debug\net8.0\Exercicio_com_classe2.dll
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\bin\Debug\net8.0\Exercicio_com_classe2.pdb
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\obj\Debug\net8.0\Exercicio_com_classe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\obj\Debug\net8.0\Exercicio_com_classe2.AssemblyInfoInputs.cache
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\obj\Debug\net8.0\Exercicio_com_classe2.AssemblyInfo.cs
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\obj\Debug\net8.0\Exercicio_com_classe2.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\obj\Debug\net8.0\Exercicio_com_classe2.sourcelink.json
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\obj\Debug\net8.0\Exercicio_com_classe2.dll
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\obj\Debug\net8.0\refint\Exercicio_com_classe2.dll
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\obj\Debug\net8.0\Exercicio_com_classe2.pdb
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\obj\Debug\net8.0\Exercicio_com_classe2.genruntimeconfig.cache
+C:\temp\projetos\Exercicio_com_classe2\Exercicio_com_classe2\obj\Debug\net8.0\ref\Exercicio_com_classe2.dll
