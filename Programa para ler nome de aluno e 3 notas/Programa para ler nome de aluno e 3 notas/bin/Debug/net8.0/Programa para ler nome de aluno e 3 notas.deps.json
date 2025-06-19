@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Programa para ler nome de aluno e 3 notas/1.0.0": {
+        "runtime": {
+          "Programa para ler nome de aluno e 3 notas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa para ler nome de aluno e 3 notas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

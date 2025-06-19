@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa para ler nome de aluno e 3 notas", "Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas.csproj", "{C7ECFE1E-FF14-41F5-94AF-A89FF05D5411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7ECFE1E-FF14-41F5-94AF-A89FF05D5411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7ECFE1E-FF14-41F5-94AF-A89FF05D5411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7ECFE1E-FF14-41F5-94AF-A89FF05D5411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7ECFE1E-FF14-41F5-94AF-A89FF05D5411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7AB949F-9BE5-4512-840C-4894F7004346}
+	EndGlobalSection
+EndGlobal

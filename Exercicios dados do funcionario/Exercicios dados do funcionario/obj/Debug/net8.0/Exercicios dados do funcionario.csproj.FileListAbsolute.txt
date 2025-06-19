@@ -1,0 +1,15 @@
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\bin\Debug\net8.0\Exercicios dados do funcionario.exe
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\bin\Debug\net8.0\Exercicios dados do funcionario.deps.json
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\bin\Debug\net8.0\Exercicios dados do funcionario.runtimeconfig.json
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\bin\Debug\net8.0\Exercicios dados do funcionario.dll
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\bin\Debug\net8.0\Exercicios dados do funcionario.pdb
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\obj\Debug\net8.0\Exercicios dados do funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\obj\Debug\net8.0\Exercicios dados do funcionario.AssemblyInfoInputs.cache
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\obj\Debug\net8.0\Exercicios dados do funcionario.AssemblyInfo.cs
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\obj\Debug\net8.0\Exercicios dados do funcionario.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\obj\Debug\net8.0\Exercicios dados do funcionario.sourcelink.json
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\obj\Debug\net8.0\Exercicios dados do funcionario.dll
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\obj\Debug\net8.0\refint\Exercicios dados do funcionario.dll
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\obj\Debug\net8.0\Exercicios dados do funcionario.pdb
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\obj\Debug\net8.0\Exercicios dados do funcionario.genruntimeconfig.cache
+C:\temp\projetos\Exercicios dados do funcionario\Exercicios dados do funcionario\obj\Debug\net8.0\ref\Exercicios dados do funcionario.dll
