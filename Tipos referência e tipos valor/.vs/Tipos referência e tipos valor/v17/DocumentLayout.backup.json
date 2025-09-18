@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\estep\\source\\repos\\Tipos refer\u00EAncia e tipos valor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E896DDF-5AFC-4C8D-8BF8-663A50C8C053}|Tipos refer\u00EAncia e tipos valor\\Tipos refer\u00EAncia e tipos valor.csproj|c:\\users\\estep\\source\\repos\\tipos refer\u00EAncia e tipos valor\\tipos refer\u00EAncia e tipos valor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E896DDF-5AFC-4C8D-8BF8-663A50C8C053}|Tipos refer\u00EAncia e tipos valor\\Tipos refer\u00EAncia e tipos valor.csproj|solutionrelative:tipos refer\u00EAncia e tipos valor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E896DDF-5AFC-4C8D-8BF8-663A50C8C053}|Tipos refer\u00EAncia e tipos valor\\Tipos refer\u00EAncia e tipos valor.csproj|c:\\users\\estep\\source\\repos\\tipos refer\u00EAncia e tipos valor\\tipos refer\u00EAncia e tipos valor\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E896DDF-5AFC-4C8D-8BF8-663A50C8C053}|Tipos refer\u00EAncia e tipos valor\\Tipos refer\u00EAncia e tipos valor.csproj|solutionrelative:tipos refer\u00EAncia e tipos valor\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\estep\\source\\repos\\Tipos refer\u00EAncia e tipos valor\\Tipos refer\u00EAncia e tipos valor\\Point.cs",
+              "RelativeDocumentMoniker": "Tipos refer\u00EAncia e tipos valor\\Point.cs",
+              "ToolTip": "C:\\Users\\estep\\source\\repos\\Tipos refer\u00EAncia e tipos valor\\Tipos refer\u00EAncia e tipos valor\\Point.cs",
+              "RelativeToolTip": "Tipos refer\u00EAncia e tipos valor\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T23:14:36.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\estep\\source\\repos\\Tipos refer\u00EAncia e tipos valor\\Tipos refer\u00EAncia e tipos valor\\Program.cs",
+              "RelativeDocumentMoniker": "Tipos refer\u00EAncia e tipos valor\\Program.cs",
+              "ToolTip": "C:\\Users\\estep\\source\\repos\\Tipos refer\u00EAncia e tipos valor\\Tipos refer\u00EAncia e tipos valor\\Program.cs",
+              "RelativeToolTip": "Tipos refer\u00EAncia e tipos valor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T23:03:44.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

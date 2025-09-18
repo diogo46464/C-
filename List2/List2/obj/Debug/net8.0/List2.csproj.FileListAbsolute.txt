@@ -1,0 +1,14 @@
+C:\Users\estep\source\repos\List2\List2\bin\Debug\net8.0\List2.exe
+C:\Users\estep\source\repos\List2\List2\bin\Debug\net8.0\List2.deps.json
+C:\Users\estep\source\repos\List2\List2\bin\Debug\net8.0\List2.runtimeconfig.json
+C:\Users\estep\source\repos\List2\List2\bin\Debug\net8.0\List2.dll
+C:\Users\estep\source\repos\List2\List2\bin\Debug\net8.0\List2.pdb
+C:\Users\estep\source\repos\List2\List2\obj\Debug\net8.0\List2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estep\source\repos\List2\List2\obj\Debug\net8.0\List2.AssemblyInfoInputs.cache
+C:\Users\estep\source\repos\List2\List2\obj\Debug\net8.0\List2.AssemblyInfo.cs
+C:\Users\estep\source\repos\List2\List2\obj\Debug\net8.0\List2.csproj.CoreCompileInputs.cache
+C:\Users\estep\source\repos\List2\List2\obj\Debug\net8.0\List2.dll
+C:\Users\estep\source\repos\List2\List2\obj\Debug\net8.0\refint\List2.dll
+C:\Users\estep\source\repos\List2\List2\obj\Debug\net8.0\List2.pdb
+C:\Users\estep\source\repos\List2\List2\obj\Debug\net8.0\List2.genruntimeconfig.cache
+C:\Users\estep\source\repos\List2\List2\obj\Debug\net8.0\ref\List2.dll

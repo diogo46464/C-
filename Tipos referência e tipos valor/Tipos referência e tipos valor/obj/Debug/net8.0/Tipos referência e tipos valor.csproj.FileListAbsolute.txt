@@ -1,0 +1,14 @@
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\bin\Debug\net8.0\Tipos referência e tipos valor.exe
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\bin\Debug\net8.0\Tipos referência e tipos valor.deps.json
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\bin\Debug\net8.0\Tipos referência e tipos valor.runtimeconfig.json
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\bin\Debug\net8.0\Tipos referência e tipos valor.dll
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\bin\Debug\net8.0\Tipos referência e tipos valor.pdb
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net8.0\Tipos referência e tipos valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net8.0\Tipos referência e tipos valor.AssemblyInfoInputs.cache
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net8.0\Tipos referência e tipos valor.AssemblyInfo.cs
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net8.0\Tipos referência e tipos valor.csproj.CoreCompileInputs.cache
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net8.0\Tipos referência e tipos valor.dll
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net8.0\refint\Tipos referência e tipos valor.dll
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net8.0\Tipos referência e tipos valor.pdb
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net8.0\Tipos referência e tipos valor.genruntimeconfig.cache
+C:\Users\estep\source\repos\Tipos referência e tipos valor\Tipos referência e tipos valor\obj\Debug\net8.0\ref\Tipos referência e tipos valor.dll
