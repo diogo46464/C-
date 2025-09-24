@@ -1,0 +1,9 @@
+C:\temp\projetos\SistemaCaixaWinForms\SistemaCaixaWinForms\obj\Debug\net8.0-windows\SistemaCaixaWinForms.csproj.AssemblyReference.cache
+C:\temp\projetos\SistemaCaixaWinForms\SistemaCaixaWinForms\obj\Debug\net8.0-windows\SistemaCaixaWinForms.Form1.resources
+C:\temp\projetos\SistemaCaixaWinForms\SistemaCaixaWinForms\obj\Debug\net8.0-windows\SistemaCaixaWinForms.FormTransacao.resources
+C:\temp\projetos\SistemaCaixaWinForms\SistemaCaixaWinForms\obj\Debug\net8.0-windows\SistemaCaixaWinForms.csproj.GenerateResource.cache
+C:\temp\projetos\SistemaCaixaWinForms\SistemaCaixaWinForms\obj\Debug\net8.0-windows\SistemaCaixaWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\SistemaCaixaWinForms\SistemaCaixaWinForms\obj\Debug\net8.0-windows\SistemaCaixaWinForms.AssemblyInfoInputs.cache
+C:\temp\projetos\SistemaCaixaWinForms\SistemaCaixaWinForms\obj\Debug\net8.0-windows\SistemaCaixaWinForms.AssemblyInfo.cs
+C:\temp\projetos\SistemaCaixaWinForms\SistemaCaixaWinForms\obj\Debug\net8.0-windows\SistemaCaixaWinForms.csproj.CoreCompileInputs.cache
+C:\temp\projetos\SistemaCaixaWinForms\SistemaCaixaWinForms\obj\Debug\net8.0-windows\SistemaCaixaWinForms.sourcelink.json

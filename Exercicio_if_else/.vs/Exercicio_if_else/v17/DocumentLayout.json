@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Exercicio_if_else\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17A112D5-C215-462F-AADB-DDA04A007334}|Exercicio_if_else\\Exercicio_if_else.csproj|c:\\temp\\projetos\\exercicio_if_else\\exercicio_if_else\\hiperlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A112D5-C215-462F-AADB-DDA04A007334}|Exercicio_if_else\\Exercicio_if_else.csproj|solutionrelative:exercicio_if_else\\hiperlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A112D5-C215-462F-AADB-DDA04A007334}|Exercicio_if_else\\Exercicio_if_else.csproj|c:\\temp\\projetos\\exercicio_if_else\\exercicio_if_else\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A112D5-C215-462F-AADB-DDA04A007334}|Exercicio_if_else\\Exercicio_if_else.csproj|solutionrelative:exercicio_if_else\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A112D5-C215-462F-AADB-DDA04A007334}|Exercicio_if_else\\Exercicio_if_else.csproj|c:\\temp\\projetos\\exercicio_if_else\\exercicio_if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A112D5-C215-462F-AADB-DDA04A007334}|Exercicio_if_else\\Exercicio_if_else.csproj|solutionrelative:exercicio_if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A112D5-C215-462F-AADB-DDA04A007334}|Exercicio_if_else\\Exercicio_if_else.csproj|c:\\temp\\projetos\\exercicio_if_else\\exercicio_if_else\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A112D5-C215-462F-AADB-DDA04A007334}|Exercicio_if_else\\Exercicio_if_else.csproj|solutionrelative:exercicio_if_else\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercicio_if_else\\Exercicio_if_else\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_if_else\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercicio_if_else\\Exercicio_if_else\\Program.cs",
+              "RelativeToolTip": "Exercicio_if_else\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:39:58.533Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicios.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercicio_if_else\\Exercicio_if_else\\Exercicios.cs",
+              "RelativeDocumentMoniker": "Exercicio_if_else\\Exercicios.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercicio_if_else\\Exercicio_if_else\\Exercicios.cs",
+              "RelativeToolTip": "Exercicio_if_else\\Exercicios.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:41:52.106Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HiperLayout.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercicio_if_else\\Exercicio_if_else\\HiperLayout.cs",
+              "RelativeDocumentMoniker": "Exercicio_if_else\\HiperLayout.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercicio_if_else\\Exercicio_if_else\\HiperLayout.cs",
+              "RelativeToolTip": "Exercicio_if_else\\HiperLayout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:55:03.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercicio_if_else\\Exercicio_if_else\\Extension.cs",
+              "RelativeDocumentMoniker": "Exercicio_if_else\\Extension.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercicio_if_else\\Exercicio_if_else\\Extension.cs",
+              "RelativeToolTip": "Exercicio_if_else\\Extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:42:19.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

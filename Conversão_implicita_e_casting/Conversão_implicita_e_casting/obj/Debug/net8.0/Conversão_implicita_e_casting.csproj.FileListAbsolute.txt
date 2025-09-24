@@ -1,0 +1,14 @@
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\bin\Debug\net8.0\Conversão_implicita_e_casting.exe
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\bin\Debug\net8.0\Conversão_implicita_e_casting.deps.json
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\bin\Debug\net8.0\Conversão_implicita_e_casting.runtimeconfig.json
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\bin\Debug\net8.0\Conversão_implicita_e_casting.dll
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\bin\Debug\net8.0\Conversão_implicita_e_casting.pdb
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\obj\Debug\net8.0\Conversão_implicita_e_casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\obj\Debug\net8.0\Conversão_implicita_e_casting.AssemblyInfoInputs.cache
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\obj\Debug\net8.0\Conversão_implicita_e_casting.AssemblyInfo.cs
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\obj\Debug\net8.0\Conversão_implicita_e_casting.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\obj\Debug\net8.0\Conversão_implicita_e_casting.dll
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\obj\Debug\net8.0\refint\Conversão_implicita_e_casting.dll
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\obj\Debug\net8.0\Conversão_implicita_e_casting.pdb
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\obj\Debug\net8.0\Conversão_implicita_e_casting.genruntimeconfig.cache
+C:\temp\projetos\Conversão_implicita_e_casting\Conversão_implicita_e_casting\obj\Debug\net8.0\ref\Conversão_implicita_e_casting.dll

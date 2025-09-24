@@ -1,0 +1,15 @@
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\bin\Debug\net8.0\Exercicio_com_metodos.exe
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\bin\Debug\net8.0\Exercicio_com_metodos.deps.json
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\bin\Debug\net8.0\Exercicio_com_metodos.runtimeconfig.json
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\bin\Debug\net8.0\Exercicio_com_metodos.dll
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\bin\Debug\net8.0\Exercicio_com_metodos.pdb
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\obj\Debug\net8.0\Exercicio_com_metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\obj\Debug\net8.0\Exercicio_com_metodos.AssemblyInfoInputs.cache
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\obj\Debug\net8.0\Exercicio_com_metodos.AssemblyInfo.cs
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\obj\Debug\net8.0\Exercicio_com_metodos.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\obj\Debug\net8.0\Exercicio_com_metodos.sourcelink.json
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\obj\Debug\net8.0\Exercicio_com_metodos.dll
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\obj\Debug\net8.0\refint\Exercicio_com_metodos.dll
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\obj\Debug\net8.0\Exercicio_com_metodos.pdb
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\obj\Debug\net8.0\Exercicio_com_metodos.genruntimeconfig.cache
+C:\temp\projetos\Exercicio_com_metodos\Exercicio_com_metodos\obj\Debug\net8.0\ref\Exercicio_com_metodos.dll

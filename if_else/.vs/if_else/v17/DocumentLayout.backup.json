@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\if_else\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B33F5D5-C92E-4085-815F-4517FFC90878}|if_else\\if_else.csproj|c:\\temp\\projetos\\if_else\\if_else\\exercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B33F5D5-C92E-4085-815F-4517FFC90878}|if_else\\if_else.csproj|solutionrelative:if_else\\exercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B33F5D5-C92E-4085-815F-4517FFC90878}|if_else\\if_else.csproj|c:\\temp\\projetos\\if_else\\if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B33F5D5-C92E-4085-815F-4517FFC90878}|if_else\\if_else.csproj|solutionrelative:if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\if_else\\if_else\\Program.cs",
+              "RelativeDocumentMoniker": "if_else\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\if_else\\if_else\\Program.cs",
+              "RelativeToolTip": "if_else\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:42:43.668Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercicio.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\if_else\\if_else\\exercicio.cs",
+              "RelativeDocumentMoniker": "if_else\\exercicio.cs",
+              "ToolTip": "C:\\temp\\projetos\\if_else\\if_else\\exercicio.cs",
+              "RelativeToolTip": "if_else\\exercicio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:53:57.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

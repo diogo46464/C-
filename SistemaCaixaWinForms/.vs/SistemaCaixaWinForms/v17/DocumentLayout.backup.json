@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\SistemaCaixaWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|c:\\temp\\projetos\\sistemacaixawinforms\\sistemacaixawinforms\\formtransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|solutionrelative:sistemacaixawinforms\\formtransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|c:\\temp\\projetos\\sistemacaixawinforms\\sistemacaixawinforms\\formtransacao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|solutionrelative:sistemacaixawinforms\\formtransacao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|c:\\temp\\projetos\\sistemacaixawinforms\\sistemacaixawinforms\\formtransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|solutionrelative:sistemacaixawinforms\\formtransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|c:\\temp\\projetos\\sistemacaixawinforms\\sistemacaixawinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|solutionrelative:sistemacaixawinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|c:\\temp\\projetos\\sistemacaixawinforms\\sistemacaixawinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|solutionrelative:sistemacaixawinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|c:\\temp\\projetos\\sistemacaixawinforms\\sistemacaixawinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|solutionrelative:sistemacaixawinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|c:\\temp\\projetos\\sistemacaixawinforms\\sistemacaixawinforms\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|solutionrelative:sistemacaixawinforms\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|c:\\temp\\projetos\\sistemacaixawinforms\\sistemacaixawinforms\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{260043F1-ADA2-4DC4-944A-EE3C59C39233}|SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj|solutionrelative:sistemacaixawinforms\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormTransacao.cs [Design]",
+              "DocumentMoniker": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\FormTransacao.cs",
+              "RelativeDocumentMoniker": "SistemaCaixaWinForms\\FormTransacao.cs",
+              "ToolTip": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\FormTransacao.cs [Design]",
+              "RelativeToolTip": "SistemaCaixaWinForms\\FormTransacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T02:24:21.287Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTransacao.Designer.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\FormTransacao.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaCaixaWinForms\\FormTransacao.Designer.cs",
+              "ToolTip": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\FormTransacao.Designer.cs",
+              "RelativeToolTip": "SistemaCaixaWinForms\\FormTransacao.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T02:24:14.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormTransacao.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\FormTransacao.cs",
+              "RelativeDocumentMoniker": "SistemaCaixaWinForms\\FormTransacao.cs",
+              "ToolTip": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\FormTransacao.cs",
+              "RelativeToolTip": "SistemaCaixaWinForms\\FormTransacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:18:20.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaCaixaWinForms\\Form1.cs",
+              "ToolTip": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\Form1.cs*",
+              "RelativeToolTip": "SistemaCaixaWinForms\\Form1.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:57:31.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaCaixaWinForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "SistemaCaixaWinForms\\Form1.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAASwC0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:56:37.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\Form1.resx",
+              "RelativeDocumentMoniker": "SistemaCaixaWinForms\\Form1.resx",
+              "ToolTip": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\Form1.resx*",
+              "RelativeToolTip": "SistemaCaixaWinForms\\Form1.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-16T22:56:43.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\Database.cs",
+              "RelativeDocumentMoniker": "SistemaCaixaWinForms\\Database.cs",
+              "ToolTip": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\Database.cs",
+              "RelativeToolTip": "SistemaCaixaWinForms\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:41:44.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaCaixaWinForms\\Form1.cs",
+              "ToolTip": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\Form1.cs [Design]*",
+              "RelativeToolTip": "SistemaCaixaWinForms\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:38:32.996Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

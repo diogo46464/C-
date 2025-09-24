@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Operadores_de_atribuição_ex2/1.0.0": {
+        "runtime": {
+          "Operadores_de_atribuição_ex2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operadores_de_atribuição_ex2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W7t8X8ImrFE=",
+  "success": true,
+  "projectFilePath": "C:\\temp\\projetos\\SistemaCaixaWinForms\\SistemaCaixaWinForms\\SistemaCaixaWinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diogo\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.7\\microsoft.data.sqlite.core.9.0.7.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\bin\Debug\net8.0\Exercicio_propostos_5.exe
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\bin\Debug\net8.0\Exercicio_propostos_5.dll
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\obj\Debug\net8.0\Exercicio_propostos_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\obj\Debug\net8.0\Exercicio_propostos_5.AssemblyInfoInputs.cache
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\obj\Debug\net8.0\Exercicio_propostos_5.AssemblyInfo.cs
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\obj\Debug\net8.0\Exercicio_propostos_5.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\obj\Debug\net8.0\Exercicio_propostos_5.dll
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\obj\Debug\net8.0\refint\Exercicio_propostos_5.dll
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\obj\Debug\net8.0\Exercicio_propostos_5.pdb
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\bin\Debug\net8.0\Exercicio_propostos_5.deps.json
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\bin\Debug\net8.0\Exercicio_propostos_5.runtimeconfig.json
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\bin\Debug\net8.0\Exercicio_propostos_5.pdb
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\obj\Debug\net8.0\Exercicio_propostos_5.genruntimeconfig.cache
+C:\temp\projetos\Exercicio_propostos_5\Exercicio_propostos_5\obj\Debug\net8.0\ref\Exercicio_propostos_5.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course_saida_de_dados_desafio", "Course_saida_de_dados_desafio\Course_saida_de_dados_desafio.csproj", "{7340E068-5239-4787-83C8-17B758A9C93F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7340E068-5239-4787-83C8-17B758A9C93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7340E068-5239-4787-83C8-17B758A9C93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7340E068-5239-4787-83C8-17B758A9C93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7340E068-5239-4787-83C8-17B758A9C93F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {101FA0E5-C2C9-4368-9FD3-1B20A096FF4B}
+	EndGlobalSection
+EndGlobal

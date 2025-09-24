@@ -1,0 +1,15 @@
+C:\temp\projetos\Exercise_While\Exercise_While\bin\Debug\net8.0\Exercise_While.exe
+C:\temp\projetos\Exercise_While\Exercise_While\bin\Debug\net8.0\Exercise_While.deps.json
+C:\temp\projetos\Exercise_While\Exercise_While\bin\Debug\net8.0\Exercise_While.runtimeconfig.json
+C:\temp\projetos\Exercise_While\Exercise_While\bin\Debug\net8.0\Exercise_While.dll
+C:\temp\projetos\Exercise_While\Exercise_While\bin\Debug\net8.0\Exercise_While.pdb
+C:\temp\projetos\Exercise_While\Exercise_While\obj\Debug\net8.0\Exercise_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Exercise_While\Exercise_While\obj\Debug\net8.0\Exercise_While.AssemblyInfoInputs.cache
+C:\temp\projetos\Exercise_While\Exercise_While\obj\Debug\net8.0\Exercise_While.AssemblyInfo.cs
+C:\temp\projetos\Exercise_While\Exercise_While\obj\Debug\net8.0\Exercise_While.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Exercise_While\Exercise_While\obj\Debug\net8.0\Exercise_While.sourcelink.json
+C:\temp\projetos\Exercise_While\Exercise_While\obj\Debug\net8.0\Exercise_While.dll
+C:\temp\projetos\Exercise_While\Exercise_While\obj\Debug\net8.0\refint\Exercise_While.dll
+C:\temp\projetos\Exercise_While\Exercise_While\obj\Debug\net8.0\Exercise_While.pdb
+C:\temp\projetos\Exercise_While\Exercise_While\obj\Debug\net8.0\Exercise_While.genruntimeconfig.cache
+C:\temp\projetos\Exercise_While\Exercise_While\obj\Debug\net8.0\ref\Exercise_While.dll

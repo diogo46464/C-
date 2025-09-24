@@ -1,0 +1,15 @@
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\bin\Debug\net8.0\Programa para ler nome de aluno e 3 notas.exe
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\bin\Debug\net8.0\Programa para ler nome de aluno e 3 notas.deps.json
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\bin\Debug\net8.0\Programa para ler nome de aluno e 3 notas.runtimeconfig.json
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\bin\Debug\net8.0\Programa para ler nome de aluno e 3 notas.dll
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\bin\Debug\net8.0\Programa para ler nome de aluno e 3 notas.pdb
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\obj\Debug\net8.0\Programa para ler nome de aluno e 3 notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\obj\Debug\net8.0\Programa para ler nome de aluno e 3 notas.AssemblyInfoInputs.cache
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\obj\Debug\net8.0\Programa para ler nome de aluno e 3 notas.AssemblyInfo.cs
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\obj\Debug\net8.0\Programa para ler nome de aluno e 3 notas.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\obj\Debug\net8.0\Programa para ler nome de aluno e 3 notas.sourcelink.json
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\obj\Debug\net8.0\Programa para ler nome de aluno e 3 notas.dll
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\obj\Debug\net8.0\refint\Programa para ler nome de aluno e 3 notas.dll
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\obj\Debug\net8.0\Programa para ler nome de aluno e 3 notas.pdb
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\obj\Debug\net8.0\Programa para ler nome de aluno e 3 notas.genruntimeconfig.cache
+C:\temp\projetos\Programa para ler nome de aluno e 3 notas\Programa para ler nome de aluno e 3 notas\obj\Debug\net8.0\ref\Programa para ler nome de aluno e 3 notas.dll
