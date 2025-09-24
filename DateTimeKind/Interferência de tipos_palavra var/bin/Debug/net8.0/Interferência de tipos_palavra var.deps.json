@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Interferência de tipos_palavra var/1.0.0": {
+        "runtime": {
+          "Interferência de tipos_palavra var.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interferência de tipos_palavra var/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

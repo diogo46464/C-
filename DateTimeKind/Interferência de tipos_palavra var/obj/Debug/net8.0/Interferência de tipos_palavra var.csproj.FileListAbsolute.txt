@@ -1,0 +1,14 @@
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\bin\Debug\net8.0\Interferência de tipos_palavra var.exe
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\bin\Debug\net8.0\Interferência de tipos_palavra var.deps.json
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\bin\Debug\net8.0\Interferência de tipos_palavra var.runtimeconfig.json
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\bin\Debug\net8.0\Interferência de tipos_palavra var.dll
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\bin\Debug\net8.0\Interferência de tipos_palavra var.pdb
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\obj\Debug\net8.0\Interferência de tipos_palavra var.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\obj\Debug\net8.0\Interferência de tipos_palavra var.AssemblyInfoInputs.cache
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\obj\Debug\net8.0\Interferência de tipos_palavra var.AssemblyInfo.cs
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\obj\Debug\net8.0\Interferência de tipos_palavra var.csproj.CoreCompileInputs.cache
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\obj\Debug\net8.0\Interferência de tipos_palavra var.dll
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\obj\Debug\net8.0\refint\Interferência de tipos_palavra var.dll
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\obj\Debug\net8.0\Interferência de tipos_palavra var.pdb
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\obj\Debug\net8.0\Interferência de tipos_palavra var.genruntimeconfig.cache
+D:\C#\Interferência de tipos_palavra var\Interferência de tipos_palavra var\obj\Debug\net8.0\ref\Interferência de tipos_palavra var.dll

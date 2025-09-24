@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ISO 8601\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5057DEA0-076A-4BA5-9E6A-037A5C3B3D54}|ISO 8601\\ISO 8601.csproj|d:\\c#\\iso 8601\\iso 8601\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5057DEA0-076A-4BA5-9E6A-037A5C3B3D54}|ISO 8601\\ISO 8601.csproj|solutionrelative:iso 8601\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ISO 8601\\ISO 8601\\Program.cs",
+              "RelativeDocumentMoniker": "ISO 8601\\Program.cs",
+              "ToolTip": "D:\\C#\\ISO 8601\\ISO 8601\\Program.cs",
+              "RelativeToolTip": "ISO 8601\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:40:27.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

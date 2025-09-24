@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ISO 8601/1.0.0": {
+        "runtime": {
+          "ISO 8601.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISO 8601/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
