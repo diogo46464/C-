@@ -1,0 +1,14 @@
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\bin\Debug\net8.0\Operadores_logicos.exe
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\bin\Debug\net8.0\Operadores_logicos.deps.json
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\bin\Debug\net8.0\Operadores_logicos.runtimeconfig.json
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\bin\Debug\net8.0\Operadores_logicos.dll
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\bin\Debug\net8.0\Operadores_logicos.pdb
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.AssemblyInfoInputs.cache
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.AssemblyInfo.cs
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.dll
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\refint\Operadores_logicos.dll
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.pdb
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\Operadores_logicos.genruntimeconfig.cache
+C:\temp\projetos\Operadores_logicos\Operadores_logicos\obj\Debug\net8.0\ref\Operadores_logicos.dll

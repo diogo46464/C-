@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Conversão_implicita_e_casting/1.0.0": {
+        "runtime": {
+          "Conversão_implicita_e_casting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conversão_implicita_e_casting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

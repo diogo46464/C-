@@ -1,0 +1,14 @@
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\bin\Debug\net8.0\Operadores_aritmeticos.exe
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\bin\Debug\net8.0\Operadores_aritmeticos.deps.json
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\bin\Debug\net8.0\Operadores_aritmeticos.runtimeconfig.json
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\bin\Debug\net8.0\Operadores_aritmeticos.dll
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\bin\Debug\net8.0\Operadores_aritmeticos.pdb
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.AssemblyInfoInputs.cache
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.AssemblyInfo.cs
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.dll
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\refint\Operadores_aritmeticos.dll
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.pdb
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\Operadores_aritmeticos.genruntimeconfig.cache
+C:\temp\projetos\Operadores_aritmeticos\Operadores_aritmeticos\obj\Debug\net8.0\ref\Operadores_aritmeticos.dll

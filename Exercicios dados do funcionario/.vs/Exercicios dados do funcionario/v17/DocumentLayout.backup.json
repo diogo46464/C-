@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\Exercicios dados do funcionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1494B5-0AA7-4164-B851-E26A10C59F87}|Exercicios dados do funcionario\\Exercicios dados do funcionario.csproj|c:\\temp\\projetos\\exercicios dados do funcionario\\exercicios dados do funcionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1494B5-0AA7-4164-B851-E26A10C59F87}|Exercicios dados do funcionario\\Exercicios dados do funcionario.csproj|solutionrelative:exercicios dados do funcionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1494B5-0AA7-4164-B851-E26A10C59F87}|Exercicios dados do funcionario\\Exercicios dados do funcionario.csproj|c:\\temp\\projetos\\exercicios dados do funcionario\\exercicios dados do funcionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1494B5-0AA7-4164-B851-E26A10C59F87}|Exercicios dados do funcionario\\Exercicios dados do funcionario.csproj|solutionrelative:exercicios dados do funcionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercicios dados do funcionario\\Exercicios dados do funcionario\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Exercicios dados do funcionario\\Funcionario.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercicios dados do funcionario\\Exercicios dados do funcionario\\Funcionario.cs",
+              "RelativeToolTip": "Exercicios dados do funcionario\\Funcionario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:17:04.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\Exercicios dados do funcionario\\Exercicios dados do funcionario\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios dados do funcionario\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\Exercicios dados do funcionario\\Exercicios dados do funcionario\\Program.cs",
+              "RelativeToolTip": "Exercicios dados do funcionario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:39:43.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

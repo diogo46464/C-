@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\estep\\source\\repos\\List2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEAD43A-5892-44F8-B179-6C55FD5F368C}|List2\\List2.csproj|c:\\users\\estep\\source\\repos\\list2\\list2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEAD43A-5892-44F8-B179-6C55FD5F368C}|List2\\List2.csproj|solutionrelative:list2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\estep\\source\\repos\\List2\\List2\\Program.cs",
+              "RelativeDocumentMoniker": "List2\\Program.cs",
+              "ToolTip": "C:\\Users\\estep\\source\\repos\\List2\\List2\\Program.cs",
+              "RelativeToolTip": "List2\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T23:38:09.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

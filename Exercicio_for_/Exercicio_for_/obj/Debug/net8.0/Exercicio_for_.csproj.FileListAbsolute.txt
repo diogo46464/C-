@@ -1,0 +1,15 @@
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\obj\Debug\net8.0\Exercicio_for_.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\obj\Debug\net8.0\Exercicio_for_.AssemblyInfoInputs.cache
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\obj\Debug\net8.0\Exercicio_for_.AssemblyInfo.cs
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\obj\Debug\net8.0\Exercicio_for_.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\obj\Debug\net8.0\Exercicio_for_.sourcelink.json
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\bin\Debug\net8.0\Exercicio_for_.exe
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\bin\Debug\net8.0\Exercicio_for_.deps.json
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\bin\Debug\net8.0\Exercicio_for_.runtimeconfig.json
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\bin\Debug\net8.0\Exercicio_for_.dll
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\bin\Debug\net8.0\Exercicio_for_.pdb
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\obj\Debug\net8.0\Exercicio_for_.dll
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\obj\Debug\net8.0\refint\Exercicio_for_.dll
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\obj\Debug\net8.0\Exercicio_for_.pdb
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\obj\Debug\net8.0\Exercicio_for_.genruntimeconfig.cache
+C:\temp\projetos\Exercicio_for_\Exercicio_for_\obj\Debug\net8.0\ref\Exercicio_for_.dll

@@ -1,0 +1,15 @@
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\obj\Debug\net8.0\Exercicio largura e altura do retângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\obj\Debug\net8.0\Exercicio largura e altura do retângulo.AssemblyInfoInputs.cache
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\obj\Debug\net8.0\Exercicio largura e altura do retângulo.AssemblyInfo.cs
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\obj\Debug\net8.0\Exercicio largura e altura do retângulo.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\obj\Debug\net8.0\Exercicio largura e altura do retângulo.sourcelink.json
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\bin\Debug\net8.0\Exercicio largura e altura do retângulo.exe
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\bin\Debug\net8.0\Exercicio largura e altura do retângulo.deps.json
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\bin\Debug\net8.0\Exercicio largura e altura do retângulo.runtimeconfig.json
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\bin\Debug\net8.0\Exercicio largura e altura do retângulo.dll
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\bin\Debug\net8.0\Exercicio largura e altura do retângulo.pdb
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\obj\Debug\net8.0\Exercicio largura e altura do retângulo.dll
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\obj\Debug\net8.0\refint\Exercicio largura e altura do retângulo.dll
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\obj\Debug\net8.0\Exercicio largura e altura do retângulo.pdb
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\obj\Debug\net8.0\Exercicio largura e altura do retângulo.genruntimeconfig.cache
+C:\temp\projetos\Exercicio largura e altura do retângulo\Exercicio largura e altura do retângulo\obj\Debug\net8.0\ref\Exercicio largura e altura do retângulo.dll

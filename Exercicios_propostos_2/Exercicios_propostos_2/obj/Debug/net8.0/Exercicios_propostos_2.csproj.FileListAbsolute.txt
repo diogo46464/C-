@@ -1,0 +1,14 @@
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\bin\Debug\net8.0\Exercicios_propostos_2.exe
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\bin\Debug\net8.0\Exercicios_propostos_2.deps.json
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\bin\Debug\net8.0\Exercicios_propostos_2.runtimeconfig.json
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\bin\Debug\net8.0\Exercicios_propostos_2.dll
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\bin\Debug\net8.0\Exercicios_propostos_2.pdb
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\obj\Debug\net8.0\Exercicios_propostos_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\obj\Debug\net8.0\Exercicios_propostos_2.AssemblyInfoInputs.cache
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\obj\Debug\net8.0\Exercicios_propostos_2.AssemblyInfo.cs
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\obj\Debug\net8.0\Exercicios_propostos_2.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\obj\Debug\net8.0\Exercicios_propostos_2.dll
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\obj\Debug\net8.0\refint\Exercicios_propostos_2.dll
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\obj\Debug\net8.0\Exercicios_propostos_2.pdb
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\obj\Debug\net8.0\Exercicios_propostos_2.genruntimeconfig.cache
+C:\temp\projetos\Exercicios_propostos_2\Exercicios_propostos_2\obj\Debug\net8.0\ref\Exercicios_propostos_2.dll

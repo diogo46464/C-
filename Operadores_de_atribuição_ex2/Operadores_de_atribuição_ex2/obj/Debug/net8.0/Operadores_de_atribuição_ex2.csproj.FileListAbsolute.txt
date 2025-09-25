@@ -1,0 +1,14 @@
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\obj\Debug\net8.0\Operadores_de_atribuição_ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\obj\Debug\net8.0\Operadores_de_atribuição_ex2.AssemblyInfoInputs.cache
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\obj\Debug\net8.0\Operadores_de_atribuição_ex2.AssemblyInfo.cs
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\obj\Debug\net8.0\Operadores_de_atribuição_ex2.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\bin\Debug\net8.0\Operadores_de_atribuição_ex2.exe
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\bin\Debug\net8.0\Operadores_de_atribuição_ex2.deps.json
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\bin\Debug\net8.0\Operadores_de_atribuição_ex2.runtimeconfig.json
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\bin\Debug\net8.0\Operadores_de_atribuição_ex2.dll
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\bin\Debug\net8.0\Operadores_de_atribuição_ex2.pdb
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\obj\Debug\net8.0\Operadores_de_atribuição_ex2.dll
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\obj\Debug\net8.0\refint\Operadores_de_atribuição_ex2.dll
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\obj\Debug\net8.0\Operadores_de_atribuição_ex2.pdb
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\obj\Debug\net8.0\Operadores_de_atribuição_ex2.genruntimeconfig.cache
+C:\temp\projetos\Operadores_de_atribuição_ex2\Operadores_de_atribuição_ex2\obj\Debug\net8.0\ref\Operadores_de_atribuição_ex2.dll
